@@ -1,3 +1,3 @@
 # Summarizer
-A summarizer built using ntlk and Transformers.\
+A summarizer built using nltk and Transformers.\
 The dataset used is CNN Dail mail. 
